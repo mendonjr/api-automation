@@ -1,0 +1,24 @@
+{
+  "firstName": "Prasad",
+  "lastName": "Mendon",
+  "country": "India",
+  "address": {
+    "street": "LTT Road",
+    "city": "Mangalore",
+    "mobile": [323212,455667],
+    "state": "Karnataka"
+  },
+  "email": "prasadmendon744@gmail.com",
+  "primary skills": ["java", "automation", "selenium", "rest-Assured", "manual testing"],
+  "secondary skills": ["Test Management", "Git", "Cucumber", "typescript"],
+  "education": [
+    {
+      "course": "B.E",
+      "marks": 8.4
+    },
+    {
+      "course": "XII",
+      "marks": 94
+    }
+  ]
+}
